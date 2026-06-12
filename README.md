@@ -32,7 +32,7 @@ The solution implements a complete **ETL pipeline** for loading, cleansing and t
 
 The complete implementation of the ETL pipeline and IFRS 9 ECL calculation logic is available in the Jupyter Notebook:
 
-📓 [Open Jupyter Notebook](./IFRS_9_ECL_automatization_ipynb.ipynb)
+📓 [Open Jupyter Notebook](./ifrs_9_ecl_automatization_eng.ipynb)
 
 ---
 

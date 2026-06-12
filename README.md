@@ -13,8 +13,8 @@ The solution implements a complete **ETL pipeline** for loading, cleansing and t
 - Loading and consolidation of credit portfolio data;
 - Data cleansing and transformation;
 - ETL processing using **Python (Pandas)** and **DuckDB SQL**;
-- Automated calculation of **PD (Probability of Default)**;
-- Automated calculation of **LGD (Loss Given Default)**;
+- Using calculated **PD (Probability of Default)**;
+- Usnig calculated **LGD (Loss Given Default)**;
 - Automated calculation of **EAD (Exposure at Default)**;
 - Automated **IFRS 9 Expected Credit Loss (ECL)** calculation;
 - Generation of the final analytical reporting dataset;
